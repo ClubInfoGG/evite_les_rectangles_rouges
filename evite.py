@@ -3,6 +3,8 @@ import sys
 import random
 from pygame.locals import *
 
+#commentaire
+
 pygame.init()
 pygame.font.init()
 
